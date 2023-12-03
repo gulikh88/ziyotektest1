@@ -1,4 +1,8 @@
 # ziyotektest1
 
 
-test first comit
+test conflict1 commit
+
+ updates more
+
+.gitignore will ignore files in the "passwords"folder
